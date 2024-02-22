@@ -1,4 +1,4 @@
-#Hey Ruturaj here in order to run this just execute commands below on your command prompt
+# Hey Ruturaj here in order to run this just execute commands below on your command prompt
 Command on your terminal
 
 ```
