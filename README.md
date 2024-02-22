@@ -1,6 +1,5 @@
-# Todo_Tutorial_YouTube
-
-# In order to make the app work first install the dependencies by running the following command on your terminal
+Hey Ruturaj here in order to run this just execute commands below on your command prompt
+Command on your terminal
 
 ```
 npm install
